@@ -1,0 +1,10 @@
+# 敏感配置（含 API Key）
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
