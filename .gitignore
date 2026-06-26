@@ -1,6 +1,15 @@
 # 敏感配置（含 API Key）
 .env
 
+# Cookie 文件
+cookies.txt
+
+# 浏览器数据（含 token 缓存，不能上传）
+browser_data/
+
+# 截图（运行时生成）
+screenshots/
+
 # Python
 __pycache__/
 *.pyc
